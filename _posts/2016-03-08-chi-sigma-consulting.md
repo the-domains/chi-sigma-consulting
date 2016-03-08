@@ -2,13 +2,13 @@
 inFeed: true
 hasPage: false
 inNav: false
-isBasedOnUrl: null
+isBasedOnUrl: ''
 inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-03-08T17:56:46.988Z'
-dateModified: '2016-03-08T17:54:27.199Z'
+datePublished: '2016-03-08T18:04:47.919Z'
+dateModified: '2016-03-08T18:04:41.956Z'
 title: Chi Sigma Consulting
 author: []
 sourcePath: _posts/2016-03-08-chi-sigma-consulting.md
@@ -22,7 +22,7 @@ publisher:
 _type: Blurb
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d3c39ee9-cbc1-4aab-b62f-b872202f628a.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/115dabe2c7ce46a738969cf8109ff60b42d2a533.jpg)
 
 # Chi Sigma Consulting
 
