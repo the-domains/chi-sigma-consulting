@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-08T14:33:41.257Z'
-dateModified: '2016-03-08T14:32:57.146Z'
+datePublished: '2016-03-08T14:50:28.054Z'
+dateModified: '2016-03-08T14:49:08.718Z'
 title: Chi Sigma Consulting
 author: []
 sourcePath: _posts/2016-03-08-chi-sigma-consulting.md
@@ -22,6 +22,12 @@ url: chi-sigma-consulting/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c06492c0-8d50-4b10-b0de-e85473cdc3ad.png)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d3c39ee9-cbc1-4aab-b62f-b872202f628a.jpg)
+
+# 
 
 # Chi Sigma Consulting
+
+****
+
+> Chi Sigma Consulting is dedicated to delivering impactful solutions founded upon our diverse backgrounds and professional experiences. We partner with our clients to achieve competitive advantages by creating and capturing more value.
