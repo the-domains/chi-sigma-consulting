@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Tyler M. Cohen | Director of Consulting'
-datePublished: '2016-03-08T18:13:50.921Z'
-dateModified: '2016-03-08T18:13:32.444Z'
+datePublished: '2016-03-08T18:14:14.925Z'
+dateModified: '2016-03-08T18:13:58.326Z'
 title: Meet Our Team
 author: []
 sourcePath: _posts/2016-03-08-meet-our-team.md
