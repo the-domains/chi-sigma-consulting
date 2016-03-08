@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Tyler M. Cohen | Director of Consulting'
-datePublished: '2016-03-08T18:09:05.720Z'
-dateModified: '2016-03-08T18:09:03.154Z'
+datePublished: '2016-03-08T18:13:50.921Z'
+dateModified: '2016-03-08T18:13:32.444Z'
 title: Meet Our Team
 author: []
 sourcePath: _posts/2016-03-08-meet-our-team.md
@@ -31,10 +31,10 @@ _type: Article
 > Mechanical Engineering to Mandarin.
 
 **Ryan S. Lau** | _Executive Director_
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5f8b8e3a-393f-44ae-89be-928f543ca859.png)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/1a35fd066c663fbf4e62319c4a1012da36616bcf.png)
 
 **Tyler M. Cohen** | _Director of Consulting_
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/305fd575-21c2-409d-a22d-00326ff0a03e.png)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/5df0592f36ffc97f85d08dbd977e658627c91a6b.png)
 
 **Isabelle O. Hanafiah** | _Director of Operations_
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a6b323b5-0efb-4a5e-bafc-93de0f5f014a.png)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/88499a263385d547f20f877d504f054d6f68f752.png)
