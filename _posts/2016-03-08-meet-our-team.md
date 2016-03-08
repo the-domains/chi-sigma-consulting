@@ -1,13 +1,13 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: 'Tyler M. Cohen | Director of Consulting'
-datePublished: '2016-03-08T18:06:01.111Z'
-dateModified: '2016-03-08T18:05:56.271Z'
+datePublished: '2016-03-08T18:09:05.720Z'
+dateModified: '2016-03-08T18:09:03.154Z'
 title: Meet Our Team
 author: []
 sourcePath: _posts/2016-03-08-meet-our-team.md
