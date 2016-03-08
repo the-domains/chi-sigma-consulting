@@ -1,0 +1,35 @@
+---
+inFeed: true
+hasPage: true
+inNav: false
+inLanguage: null
+starred: false
+keywords: []
+description: 'Tyler M. Cohen | Director of Consulting'
+datePublished: '2016-03-08T15:24:53.754Z'
+dateModified: '2016-03-08T15:24:41.921Z'
+title: Meet Our Team
+author: []
+authors: []
+publisher:
+  name: null
+  domain: null
+  url: null
+  favicon: null
+sourcePath: _posts/2016-03-08-meet-our-team.md
+published: true
+url: meet-our-team/index.html
+_type: Article
+
+---
+# Meet Our Team
+
+> Our global network is comprised
+> of young enthusiastic professionals across 8 disciplines from Finance to
+> Mechanical Engineering to Mandarin.
+
+**Ryan S. Lau** | _Executive Director_
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5f8b8e3a-393f-44ae-89be-928f543ca859.png)
+
+**Tyler M. Cohen** | _Director of Consulting_
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/305fd575-21c2-409d-a22d-00326ff0a03e.png)
