@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Tyler M. Cohen | Director of Consulting'
-datePublished: '2016-03-10T16:36:04.575Z'
-dateModified: '2016-03-10T16:35:45.748Z'
+datePublished: '2016-03-10T16:37:44.378Z'
+dateModified: '2016-03-10T16:37:32.614Z'
 title: Meet Our Team
 author: []
 sourcePath: _posts/2016-03-08-meet-our-team.md
@@ -22,6 +22,8 @@ url: meet-our-team/index.html
 _type: Article
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c932e4bc-a823-47ad-bb57-5eae2fa38930.png)
+
 # Meet Our Team
 
 > Our global network is comprised
