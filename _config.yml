@@ -1,6 +1,6 @@
 name: Chi Sigma Consulting
 favicon: null
-layout_spectrum: 0.51301
+layout_spectrum: 0
 typography_spectrum: 0.6062646133359522
 title: Chi Sigma Consulting
 cta:
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ffffff'
-    - '#000000'
-    - '#ffc000'
-    - '#3f5787'
-    - '#6a88b4'
-  brandStrength: 1
+    - '#ecebe7'
+    - '#27262c'
+    - '#eac7b4'
+    - '#b89581'
+    - '#775745'
+  brandStrength: 0.75
   lightness: 1
-  saturation: 0.5
+  saturation: 0.3125
   rhythmicContrast: 1
 purpose: []
