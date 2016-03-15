@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Tyler M. Cohen | Director of Consulting'
-datePublished: '2016-03-15T20:46:23.080Z'
-dateModified: '2016-03-15T20:45:07.932Z'
+datePublished: '2016-03-15T20:49:41.125Z'
+dateModified: '2016-03-15T20:48:25.117Z'
 title: Meet Our Team
 author: []
 sourcePath: _posts/2016-03-08-meet-our-team.md
@@ -22,6 +22,8 @@ url: meet-our-team/index.html
 _type: Article
 
 ---
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/37cefb13db8affb13f2f844717537d9fe5ef7d73.png)
+
 # Meet Our Team
 
 > Our global network is comprised
@@ -29,7 +31,6 @@ _type: Article
 > Mechanical Engineering to Mandarin.
 
 **Ryan S. Lau** | _Executive Director_
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/37cefb13db8affb13f2f844717537d9fe5ef7d73.png)
 
 **Tyler M. Cohen** | _Director of Consulting_
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/216fc92fc9dd459c4a3deeb3f14b672c8af6cf07.png)
