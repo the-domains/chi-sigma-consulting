@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Tyler M. Cohen | Director of Consulting'
-datePublished: '2016-03-15T20:29:10.838Z'
-dateModified: '2016-03-15T20:28:33.388Z'
+datePublished: '2016-03-15T20:41:06.847Z'
+dateModified: '2016-03-15T20:36:53.069Z'
 title: Meet Our Team
 author: []
 sourcePath: _posts/2016-03-08-meet-our-team.md
@@ -29,20 +29,20 @@ _type: Article
 > Mechanical Engineering to Mandarin.
 
 **Ryan S. Lau** | _Executive Director_
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/1a35fd066c663fbf4e62319c4a1012da36616bcf.png)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/391fb4f6775ff79ef3334a1bf3894b85df4d8f16.png)
 
 **Tyler M. Cohen** | _Director of Consulting_
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/5df0592f36ffc97f85d08dbd977e658627c91a6b.png)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/8f33961fdbc7d60129ecd0146f6aa5dfa47ddcf6.png)
 
 **Isabelle O. Hanafiah** | _Director of Operations_
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/88499a263385d547f20f877d504f054d6f68f752.png)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/ece83aae520c9596eb00641065a8efe3b7439e26.png)
 
 **Chintu Patel** | _Engagement Manager_
 
 __
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/fcc72634-4d59-4062-96d1-e02686a1e6e3.png)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/ff1502f65b95710d270de3577e29f853c99a7541.png)
 
 **Nilay K. Rego** | _Engagement Manager_
 
 __
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/471da7e6-7e4f-4a92-bbf3-152396bd4bbe.png)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/b76d73b15e3066f82edeffabeee316b3678c18d4.png)
