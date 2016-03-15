@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Tyler M. Cohen | Director of Consulting'
-datePublished: '2016-03-10T16:37:44.378Z'
-dateModified: '2016-03-10T16:37:32.614Z'
+datePublished: '2016-03-15T20:29:10.838Z'
+dateModified: '2016-03-15T20:28:33.388Z'
 title: Meet Our Team
 author: []
 sourcePath: _posts/2016-03-08-meet-our-team.md
@@ -22,8 +22,6 @@ url: meet-our-team/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c932e4bc-a823-47ad-bb57-5eae2fa38930.png)
-
 # Meet Our Team
 
 > Our global network is comprised
@@ -38,3 +36,13 @@ _type: Article
 
 **Isabelle O. Hanafiah** | _Director of Operations_
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/88499a263385d547f20f877d504f054d6f68f752.png)
+
+**Chintu Patel** | _Engagement Manager_
+
+__
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/fcc72634-4d59-4062-96d1-e02686a1e6e3.png)
+
+**Nilay K. Rego** | _Engagement Manager_
+
+__
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/471da7e6-7e4f-4a92-bbf3-152396bd4bbe.png)
