@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Tyler M. Cohen | Director of Consulting'
-datePublished: '2016-03-15T20:42:59.073Z'
-dateModified: '2016-03-15T20:42:44.579Z'
+datePublished: '2016-03-15T20:46:23.080Z'
+dateModified: '2016-03-15T20:45:07.932Z'
 title: Meet Our Team
 author: []
 sourcePath: _posts/2016-03-08-meet-our-team.md
@@ -43,6 +43,6 @@ __
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/8f48063cad245e494285ae2c3755cc5b1de05c8c.png)
 
 **Nilay K. Rego** | _Engagement Manager_
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/42986112fbc203e4e5ff87077a06943e910e3ec8.png)
 
 __
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/42986112fbc203e4e5ff87077a06943e910e3ec8.png)
