@@ -7,8 +7,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-03-15T20:48:04.416Z'
-dateModified: '2016-03-13T21:25:54.418Z'
+datePublished: '2016-03-22T17:14:45.357Z'
+dateModified: '2016-03-15T20:48:09.894Z'
 title: Chi Sigma Consulting
 author: []
 sourcePath: _posts/2016-03-08-chi-sigma-consulting.md
