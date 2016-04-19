@@ -7,10 +7,12 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-03-22T17:14:45.357Z'
-dateModified: '2016-03-15T20:48:09.894Z'
+datePublished: '2016-04-19T17:25:23.455Z'
+dateModified: '2016-04-19T17:25:07.366Z'
 title: Chi Sigma Consulting
-author: []
+author:
+  - name: ''
+    url: ''
 sourcePath: _posts/2016-03-08-chi-sigma-consulting.md
 published: true
 authors: []
